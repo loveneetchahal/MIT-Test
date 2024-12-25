@@ -1,0 +1,14 @@
+C:\Users\means\source\repos\MIT-test\MIT-test\bin\Debug\net8.0\MIT-test.exe
+C:\Users\means\source\repos\MIT-test\MIT-test\bin\Debug\net8.0\MIT-test.deps.json
+C:\Users\means\source\repos\MIT-test\MIT-test\bin\Debug\net8.0\MIT-test.runtimeconfig.json
+C:\Users\means\source\repos\MIT-test\MIT-test\bin\Debug\net8.0\MIT-test.dll
+C:\Users\means\source\repos\MIT-test\MIT-test\bin\Debug\net8.0\MIT-test.pdb
+C:\Users\means\source\repos\MIT-test\MIT-test\obj\Debug\net8.0\MIT-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\means\source\repos\MIT-test\MIT-test\obj\Debug\net8.0\MIT-test.AssemblyInfoInputs.cache
+C:\Users\means\source\repos\MIT-test\MIT-test\obj\Debug\net8.0\MIT-test.AssemblyInfo.cs
+C:\Users\means\source\repos\MIT-test\MIT-test\obj\Debug\net8.0\MIT-test.csproj.CoreCompileInputs.cache
+C:\Users\means\source\repos\MIT-test\MIT-test\obj\Debug\net8.0\MIT-test.dll
+C:\Users\means\source\repos\MIT-test\MIT-test\obj\Debug\net8.0\refint\MIT-test.dll
+C:\Users\means\source\repos\MIT-test\MIT-test\obj\Debug\net8.0\MIT-test.pdb
+C:\Users\means\source\repos\MIT-test\MIT-test\obj\Debug\net8.0\MIT-test.genruntimeconfig.cache
+C:\Users\means\source\repos\MIT-test\MIT-test\obj\Debug\net8.0\ref\MIT-test.dll
